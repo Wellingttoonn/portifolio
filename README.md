@@ -1,6 +1,6 @@
-# Portifolio
+# Portfolio
 
-My personal porfolio.
+My personal portfolio.
 
 GitHub Pages:
 https://wellingttoonn.github.io/portifolio/
